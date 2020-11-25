@@ -421,7 +421,7 @@ within each row.
 proportions first, and then convert to percents.
 
 ```{r}
-#- Calculate a table giving the percentage of Krats (species DM) in each
+#- Calculate a table giving the percentage of Krats (species DS) in each
 #- plot type.  The values should sum to 100 across each row of your table.
 #- Store your table as "ptype_by_species_pct".
 #- 7 marks / 100 (total 87 so far)
